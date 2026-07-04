@@ -1,4 +1,4 @@
-# 💬 Banking Customer Sentiment Analysis using Python & WordCloud
+# 💬 Banking Customer Sentiment Analysis using Python, TextBlob & WordCloud
 
 A Python-based Natural Language Processing (NLP) project that analyzes customer feedback from the banking industry using sentiment analysis and visualizes frequently used words through Word Clouds.
 
